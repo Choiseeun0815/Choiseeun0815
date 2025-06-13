@@ -1,4 +1,18 @@
-## Hi there 👋
+
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Seeun's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
+
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Choiseeun0815&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Choiseeun0815"
+  width="600"
+  height="300"
+/>
+</a>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=salmons11)](https://solved.ac/salmons11/)
 
 <!--
 **Choiseeun0815/Choiseeun0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
