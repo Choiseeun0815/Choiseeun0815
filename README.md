@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Seeun's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👏Welcome+to+Seeun's+Github!👏;)]([https://git.io/typing-sv](https://blog.naver.com/stephany_77)g)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👏Welcome+to+Seeun's+Github!👏;)]([https://git.io/typing-sv])
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Choiseeun0815&utm_content=farm">
 <img
