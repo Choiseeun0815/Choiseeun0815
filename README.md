@@ -33,13 +33,10 @@
 </p>
 
 
-<h3 align="center">🍃 Else 🍃</h3>
+<h3 align="center">🍃 Study 🍃</h3>
 <p align="center">
   <a href="https://blog.naver.com/stephany_77">
     <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a>
-  <a href="mailto:sqq1_s@naver.com">
-    <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </p>
 
