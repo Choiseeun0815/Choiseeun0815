@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20Seeun's%20Github&fontSize=70&color=0:fff176,100:ffd54f&stroke=fbc02d" alt="venom banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20Seeun's%20Github&fontSize=60&color=0:fff176,100:ffd54f&stroke=fbc02d" alt="venom banner"/>
 </p>
 
 <h3 align="center">안녕하세요! Unity/C#을 활용한 게임 개발을 공부 중인 최세은입니다.</h3>
