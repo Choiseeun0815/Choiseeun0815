@@ -8,10 +8,10 @@
 
 <br>
 
-<h3 align="center">🦖 total Contributions 🦖</h3>
+<h3 align="center">🦖 Total Contributions 🦖</h3>
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Choiseeun0815&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/Choiseeun0815" width="400" height="200"/>
+    <img src="https://render.gitanimals.org/farms/Choiseeun0815" width="500" height="250"/>
   </a>
 </p>
 
